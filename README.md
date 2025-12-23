@@ -3,7 +3,7 @@
 <p align="center">
   <img 
     src="https://gifdb.com/images/high/anime-smile-334-x-352-gif-9683j5vlwn8145xk.gif" width="280"
-    width="70%"
+    width="90%"
     alt="Anime GIF"
   />
 </p>

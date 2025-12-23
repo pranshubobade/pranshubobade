@@ -14,9 +14,10 @@
     width="70%"
     alt="Anime GIF"
   />
+  Dabi (MHA) Link - https://media.tenor.com/0eMdDnTWmcwAAAAM/dabi-dance-dabi.gif
 </p> -->
 
-Dabi (MHA) Link - https://media.tenor.com/0eMdDnTWmcwAAAAM/dabi-dance-dabi.gif
+
 <h3 align="center">A Computer Science undergraduate driven by coding, problem-solving, and continuous learning</h3>
 
 

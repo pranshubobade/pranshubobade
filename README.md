@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pranshu Bobade</h1>
+<p align="center">
+  <img src="https://media.tenor.com/cdbBQCz5EV4AAAAM/cute-boy-anime-smile.gif" width="280" alt="Cute Anime Smile"/>
+</p>
+
 <h3 align="center">A Computer Science undergraduate driven by coding, problem-solving, and continuous learning</h3>
 
 

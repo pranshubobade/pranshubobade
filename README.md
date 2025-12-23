@@ -3,8 +3,13 @@
   <img src="https://gifdb.com/images/high/anime-smile-334-x-352-gif-9683j5vlwn8145xk.gif" width="280" alt="Cute Anime Smile"/>
 </p> -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZoZXFraTE0enZoYmN0amdqNGF3dGtyeTV3dHNsbjFybGwxemN2cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aqOUrkDo2fdyE/200.gif" width="280" alt="Cute Anime Smile"/>
+  <img 
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZoZXFraTE0enZoYmN0amdqNGF3dGtyeTV3dHNsbjFybGwxemN2cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aqOUrkDo2fdyE/200.gif"
+    width="70%"
+    alt="Anime GIF"
+  />
 </p>
+
 
 <h3 align="center">A Computer Science undergraduate driven by coding, problem-solving, and continuous learning</h3>
 
